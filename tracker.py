@@ -3,11 +3,10 @@ import pandas as pd
 import plotly.express as px
 import os
 
-"""
-    App Config
-"""
+# 🧭 PAGE CONFIG (must be first Streamlit command)
 st.set_page_config(page_title="AI Project Tracker", page_icon="🤖", layout="wide")
 
+# 🧠 Title and intro
 st.title("🤖 AI Application Development Tracker (2025 Edition)")
 st.write("Track your progress across Agentic AI, Multimodal AI, and Automation projects.")
 
