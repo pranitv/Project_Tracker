@@ -1,0 +1,9 @@
+App Name,Domain,Tech Stack,Priority,Started,Progress (%),Completed,Notes
+AI Research Assistant,Agentic AI,LangChain + GPT-5 + Tavily,5.0,False,0.0,❌,Started
+Autonomous Trading Agent,Agentic AI,RLlib + PySpark + LangGraph,5.0,False,0.0,❌,Need data feed integration
+AI Video Editor,Multimodal AI,GPT-4o + Whisper + MoviePy,4.0,False,0.0,❌,
+AI Data Engineer Agent,Workflow Automation,LangGraph + Azure ADF + Databricks,5.0,False,0.0,❌,
+AI Mentor / Career Coach,Personalized AI,GPT-4 + Pinecone + Streamlit,4.0,False,0.0,❌,
+Self-Updating Knowledge Bot,Knowledge Systems,LangGraph + Tavily + Pinecone,5.0,False,0.0,❌,
+Agent Swarm Simulator,Advanced AI,CrewAI + AutoGen + GPT-5,5.0,False,0.0,❌,
+,,,,,,,
